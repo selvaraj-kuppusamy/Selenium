@@ -10,6 +10,10 @@
     * containers
     * VMware
     * AWS
+- First item
+- Second item
+- Third item
+- Fourth item
 
 It tries to simplify the software configuration management of virtualization in order to increase development productivity. Vagrant is written in the Ruby language, but its ecosystem supports development in a few other languages.
 
