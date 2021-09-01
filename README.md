@@ -1,2 +1,1 @@
-# Selenium
-
+# vagrant-centos
