@@ -1,6 +1,8 @@
 # vagrant-centos
 
 
+## Install Vagrant on Ubuntu 20.04
+
 ![vagrant-virtualbox](https://github.com/selvaraj-kuppusamy/vagrant-centos/blob/main/assests/vagrant-virtualbox.png)
 
 ### prerequisites
@@ -8,7 +10,7 @@
 * Install [VirtualBox](https://github.com/selvaraj-kuppusamy/vagrant-centos/blob/main/vagrant/installation/vagrant_install.sh)
 
 Create a dirctory `vagrant-centos-8`,
-And change to `vagrant-centos-8`.
+And change to **vagrant-centos-8**.
 
 ![mkdir](https://github.com/selvaraj-kuppusamy/vagrant-centos/blob/main/assests/mkdir.png)
 
@@ -20,7 +22,7 @@ And the **VirtualBox** is Opening!
 
 ![virtualbox-page](https://github.com/selvaraj-kuppusamy/vagrant-centos/blob/main/assests/virtualbox-page.png)
 
-Next, initialize a new Vagrantfile using the `vagrant init` command, followed by the box you want to use.
+Next, initialize a new **Vagrantfile** using the `vagrant init` command, followed by the box you want to use.
 
 Boxes are the package format for the Vagrant environments and are provider-specific. You can find a list of publicly available Vagrant Boxes on the Vagrant box catalog page.
 
@@ -46,9 +48,7 @@ This allows you to work on your project’s files on your *host machine*.
 
 ![vagrant-centos-8-6](https://github.com/selvaraj-kuppusamy/vagrant-centos/blob/main/assests/vagrant-centos-8_6.png)
 
-
 To ssh into the virtual machine, run:
-
 
 ![vagrant-centos-8-7](https://github.com/selvaraj-kuppusamy/vagrant-centos/blob/main/assests/vagrant-centos-8_7.png)
 
@@ -76,10 +76,10 @@ Now, **vagrant-centos-8** destroyed.
 
 ![vagrant-centos-8-13](https://github.com/selvaraj-kuppusamy/vagrant-centos/blob/main/assests/vagrant-centos-8_13.png)
 
-###conslusion
-I shown you how to install Vagrant on Ubuntu 20.04 and create a basic Vagrant project.
+### conslusion
+I shown you how to install ***Vagrant*** on **Ubuntu 20.04** and create a basic Vagrant project.
 
-To find more information about Vagrant visit, the official [Vagrant documentation](https://www.vagrantup.com/docs) page.
+To find more information about **Vagrant** visit, the official [Vagrant documentation](https://www.vagrantup.com/docs) page.
 
 
 
