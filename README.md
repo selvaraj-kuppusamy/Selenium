@@ -9,7 +9,7 @@
 * Install [Vagrant](https://github.com/selvaraj-kuppusamy/vagrant-centos/blob/main/vagrant/installation/vagrant_install.sh)
 * Install [VirtualBox](https://github.com/selvaraj-kuppusamy/vagrant-centos/blob/main/vagrant/installation/vagrant_install.sh)
 
-Create a dirctory `vagrant-centos-8`,
+Create a directory `vagrant-centos-8`,
 And change to **vagrant-centos-8**.
 
 ![mkdir](https://github.com/selvaraj-kuppusamy/vagrant-centos/blob/main/assests/mkdir.png)
@@ -48,7 +48,7 @@ This allows you to work on your project’s files on your *host machine*.
 
 ![vagrant-centos-8-6](https://github.com/selvaraj-kuppusamy/vagrant-centos/blob/main/assests/vagrant-centos-8_6.png)
 
-To ssh into the virtual machine, run:
+To **ssh** into the virtual machine, run:
 
 ![vagrant-centos-8-7](https://github.com/selvaraj-kuppusamy/vagrant-centos/blob/main/assests/vagrant-centos-8_7.png)
 
