@@ -16,4 +16,4 @@ It tries to simplify the software configuration management of virtualization in 
 Explore more about **Vagrant** [click here](https://www.vagrantup.com/)
 
 
-![vagrant](https://github.com/selvaraj-kuppusamy/vagrant-centos/blob/main/vagrant/assest/vagrant.png)
+![vagrant](https://github.com/selvaraj-kuppusamy/vagrant-centos/blob/main/vagrant/asset/vagrant.png)
