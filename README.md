@@ -76,7 +76,7 @@ Now, **vagrant-centos-8** destroyed.
 
 ![vagrant-centos-8-13](https://github.com/selvaraj-kuppusamy/vagrant-centos/blob/main/assets/vagrant-centos-8_13.png)
 
-### conslusion
+### conclusion
 I shown you how to install ***Vagrant*** on **Ubuntu 20.04** and create a basic Vagrant project.
 
 To find more information about **Vagrant** visit, the official [Vagrant documentation](https://www.vagrantup.com/docs) page.
